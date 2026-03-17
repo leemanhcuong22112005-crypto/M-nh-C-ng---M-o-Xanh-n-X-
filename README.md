@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cuong</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+HR+Specialist;Content+Creator;Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=500&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
 </p>
 
 <p align="center">
-  🌟 🌈 💫 ✨ 🌸 🌼 💙 ✨ 💫 🌈 🌟
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+HR+Specialist;Content+Creator;Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=500&height=50">
 </p>
 
 <h3 align="center">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</h3>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ## 🎓 Education
 <p align="center">
-  <img src="https://img.shields.io/badge/FTU-Foreign%20Trade%20University-00bfff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FTU-Foreign%20Trade%20University-1f1f1f?style=for-the-badge"/>
 </p>
 
 - Third-year student majoring in Business Chinese  
@@ -40,10 +40,10 @@
 
 ## 👨🏼‍🍳 Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Teamwork-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Communication-00bfff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-32cd32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-1f1f1f?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teamwork-2c2c2c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-3a3a3a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-4a4a4a?style=for-the-badge"/>
 </p>
 
 • Microsoft Office (Word, Excel, PowerPoint)  
@@ -90,14 +90,14 @@
 
 ## 📌 Projects & Extracurricular Activities
 
-✨ **"Tet Dong Day" Event – FTU Institute of International Economics & Business**  
+**"Tet Dong Day" Event – FTU Institute of International Economics & Business**  
 *Collaborator*  
 • Participated in fundraising sales activities  
 • Supported event organization, program execution, and on-site logistics in Lang Son  
 
 ---
 
-✨ **Real Estate Market Research Club (REC FTU)**  
+**Real Estate Market Research Club (REC FTU)**  
 *Content Team Member*  
 • Brainstormed content ideas for weekly/monthly posts and club activities  
 • Created and managed content for internal fanpage to promote events  
@@ -110,9 +110,3 @@
   💌 leemanhcuong22112005@gmail.com <br>
   🌐 https://github.com/manh-cuong-doraemon
 </p>
-
-<p align="center">
-  🌟 💫 ✨ 🌈 💙 Mèo Xanh Ăn Xế is here 💙 🌈 ✨ 💫 🌟
-</p>
-
-
