@@ -4,10 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+HR+Specialist;Content+Creator;Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">💙 Doraemon lover | Love blue, travel, exploring & good food ✈️🍜</h3>
+<p align="center">
+  🌟 🌈 💫 ✨ 🌸 🌼 💙 ✨ 💫 🌈 🌟
+</p>
+
+<h3 align="center">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</h3>
 
 <p align="center">
   Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -22,8 +30,8 @@
 ---
 
 ## 🎓 Education
-<p>
-  <img src="https://img.shields.io/badge/FTU-Foreign%20Trade%20University-blue?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/FTU-Foreign%20Trade%20University-00bfff?style=for-the-badge"/>
 </p>
 
 - Third-year student majoring in Business Chinese  
@@ -31,11 +39,11 @@
 ---
 
 ## 👨🏼‍🍳 Skills
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Teamwork-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Communication-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-00bfff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-32cd32?style=for-the-badge"/>
 </p>
 
 • Microsoft Office (Word, Excel, PowerPoint)  
@@ -97,20 +105,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📫 Contact Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manh-cuong-doraemon&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manh-cuong-doraemon&theme=tokyonight"/>
+  💌 leemanhcuong22112005@gmail.com <br>
+  🌐 https://github.com/manh-cuong-doraemon
 </p>
 
----
-
-## 📫 Contact Me
-- 📧 leemanhcuong22112005@gmail.com  
-- 🌐 https://github.com/manh-cuong-doraemon  
-
----
-
-## ⚡ Fun Fact
-> "Work hard, travel harder." ✈️😏
+<p align="center">
+  🌟 💫 ✨ 🌈 💙 Mèo Xanh Ăn Xế is here 💙 🌈 ✨ 💫 🌟
+</p>
