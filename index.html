@@ -5,25 +5,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cuong Portfolio</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/framer-motion/dist/framer-motion.umd.js"></script>
 </head>
-<body class="bg-gray-100 text-gray-800 font-sans">
+<body class="bg-gradient-to-br from-gray-100 to-blue-50 text-gray-800 font-sans">
 
   <div class="max-w-6xl mx-auto p-6">
- 
+
     <!-- Header -->
-    <div class="bg-white rounded-2xl shadow-md p-6 flex flex-col items-center text-center gap-4">
-<img src="cuong.jpeg" class="w-32 h-32 rounded-full border-4 border-blue-500 object-cover" />
-      <h1 class="text-3xl font-bold text-blue-600">Hi 👋, I'm Cuong</h1>
+    <div class="bg-white rounded-2xl shadow-md p-6 flex flex-col md:flex-row items-center gap-6 hover:shadow-xl transition">
+      <img src="avatar.jpg" class="w-28 h-28 rounded-full border-4 border-blue-500 object-cover hover:scale-105 transition duration-300" />
 
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+HR+Specialist;Content+Creator;Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=500&height=50" />
+      <div class="text-center md:text-left">
+        <h1 class="text-3xl font-bold text-blue-600">Hi 👋, I'm Cuong</h1>
 
-      
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=400&height=40" />
 
-      <h3 class="text-lg">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</h3>
-
-      <p>Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b></p>
-
-      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
+        <p class="mt-2">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</p>
+        <p class="text-sm mt-1">Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b></p>
+      </div>
     </div>
 
     <!-- Grid -->
@@ -33,7 +32,7 @@
       <div class="space-y-6">
 
         <!-- About -->
-        <div class="bg-white p-5 rounded-2xl shadow">
+        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
           <h2 class="font-semibold text-lg text-blue-600 mb-3">🌷 About Me</h2>
           <ul class="text-sm space-y-2">
             <li>✏️ I enjoy content creation, writing, and creative work</li>
@@ -44,8 +43,15 @@
           </ul>
         </div>
 
+        <!-- Education -->
+        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-lg text-blue-600 mb-2">🎓 Education</h2>
+          <p class="text-sm">Foreign Trade University</p>
+          <p class="text-sm text-gray-600">Third-year student majoring in Business Chinese</p>
+        </div>
+
         <!-- Skills -->
-        <div class="bg-white p-5 rounded-2xl shadow">
+        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
           <h2 class="font-semibold text-lg text-blue-600 mb-3">👨🏼‍🍳 Skills</h2>
           <div class="flex flex-wrap gap-2 mb-3 text-xs">
             <span class="bg-blue-100 px-2 py-1 rounded">Microsoft Office</span>
@@ -62,7 +68,7 @@
         </div>
 
         <!-- Contact -->
-        <div class="bg-white p-5 rounded-2xl shadow">
+        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
           <h2 class="font-semibold text-lg text-blue-600 mb-3">📫 Contact Me</h2>
           <p class="text-sm">💌 leemanhcuong22112005@gmail.com</p>
           <p class="text-sm">🌐 https://github.com/manh-cuong-doraemon</p>
@@ -73,62 +79,59 @@
       <!-- RIGHT -->
       <div class="md:col-span-2 space-y-6">
 
-        <!-- Experience -->
-        <div class="bg-white p-5 rounded-2xl shadow">
+        <!-- Experience Timeline -->
+        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
           <h2 class="font-semibold text-lg text-blue-600 mb-4">💼 Experience</h2>
 
-          <div class="mb-5">
-            <h3 class="font-semibold">4HANDY JSC | 08/2025 – 03/2026</h3>
-            <p class="italic text-sm">HR Recruitment Staff (Part-time)</p>
-            <ul class="text-sm list-disc ml-5 mt-2">
-              <li>Supported recruitment and interview processes across Abby, Savor Cake, and Savor Bread</li>
-              <li>Screened resumes and conducted reference checks</li>
-              <li>Scheduled training and probation periods</li>
-              <li>Assisted in evaluating probationary employees</li>
-            </ul>
-          </div>
+          <div class="border-l-2 border-blue-200 pl-4 space-y-6">
 
-          <div class="mb-5">
-            <h3 class="font-semibold">AN INVEST GROUP | 03/2025 – 07/2025</h3>
-            <p class="italic text-sm">Marketing Support (Part-time)</p>
-            <ul class="text-sm list-disc ml-5 mt-2">
-              <li>Analyzed customer insights and planned weekly content (1 TikTok, 2 Facebook posts)</li>
-              <li>Monitored performance and optimized content</li>
-              <li>Managed 2 Facebook pages and 1 TikTok channel</li>
-            </ul>
-          </div>
+            <div>
+              <h3 class="font-semibold">4HANDY JSC | 08/2025 – 03/2026</h3>
+              <p class="italic text-sm">HR Recruitment Staff (Part-time)</p>
+              <ul class="text-sm list-disc ml-5 mt-2">
+                <li>Supported recruitment and interview processes across Abby, Savor Cake, and Savor Bread</li>
+                <li>Screened resumes and conducted reference checks</li>
+                <li>Scheduled training and probation periods</li>
+                <li>Assisted in evaluating probationary employees</li>
+              </ul>
+            </div>
 
-          <div class="mb-5">
-            <h3 class="font-semibold">CUSTOM HUB VIETNAM | 03/2025 – 05/2025</h3>
-            <p class="italic text-sm">Content Creator Intern</p>
-            <ul class="text-sm list-disc ml-5 mt-2">
-              <li>Wrote SEO blog content for embroidery e-commerce (3 blogs/week)</li>
-              <li>Developed product ideas with the design team</li>
-              <li>Researched trends and improved website visibility</li>
-            </ul>
-          </div>
+            <div>
+              <h3 class="font-semibold">AN INVEST GROUP | 03/2025 – 07/2025</h3>
+              <p class="italic text-sm">Marketing Support (Part-time)</p>
+              <ul class="text-sm list-disc ml-5 mt-2">
+                <li>Analyzed customer insights and planned weekly content (1 TikTok, 2 Facebook posts)</li>
+                <li>Monitored performance and optimized content</li>
+                <li>Managed 2 Facebook pages and 1 TikTok channel</li>
+              </ul>
+            </div>
 
-          <div>
-            <h3 class="font-semibold">SOCY MEDIA JSC | 11/2024 – 02/2025</h3>
-            <p class="italic text-sm">Content Writer (Part-time)</p>
-            <ul class="text-sm list-disc ml-5 mt-2">
-              <li>Wrote and edited YouTube scripts (2/day)</li>
-              <li>Developed video concepts</li>
-              <li>Researched keywords and trends</li>
-            </ul>
-          </div>
-        </div>
+            <div>
+              <h3 class="font-semibold">CUSTOM HUB VIETNAM | 03/2025 – 05/2025</h3>
+              <p class="italic text-sm">Content Creator Intern</p>
+              <ul class="text-sm list-disc ml-5 mt-2">
+                <li>Wrote SEO blog content for embroidery e-commerce (3 blogs/week)</li>
+                <li>Developed product ideas with the design team</li>
+                <li>Researched trends and improved website visibility</li>
+              </ul>
+            </div>
 
-        <!-- Education -->
-        <div class="bg-white p-5 rounded-2xl shadow">
-          <h2 class="font-semibold text-lg text-blue-600 mb-2">🎓 Education</h2>
-          <p class="text-sm">Foreign Trade University</p>
-          <p class="text-sm text-gray-600">Third-year student majoring in Business Chinese</p>
+            <div>
+              <h3 class="font-semibold">SOCY MEDIA JSC | 11/2024 – 02/2025</h3>
+              <p class="italic text-sm">Content Writer (Part-time)</p>
+              <ul class="text-sm list-disc ml-5 mt-2">
+                <li>Wrote and edited YouTube scripts (2/day)</li>
+                <li>Developed video concepts</li>
+                <li>Researched keywords and trends</li>
+              </ul>
+            </div>
+
+          </div>
         </div>
 
         <!-- Activities -->
-        <div class="bg-white p-5 rounded-2xl shadow">
-          <h2 class="font-semibold text-lg text-blue-600 mb-2">📌 Projects & Extracurricular Activities</h2>
+        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-lg text-blue-600 mb-2">📌 Activities</h2>
 
           <div class="mb-4">
             <p class="font-medium">✨ "Tet Dong Day" Event – FTU Institute of International Economics & Business</p>
@@ -148,10 +151,7 @@
               <li>Collaborated with the design team to ensure consistent branding</li>
             </ul>
           </div>
-        </div>
 
-        <div class="text-center text-sm text-gray-500 pb-6">
-          
         </div>
 
       </div>
