@@ -5,36 +5,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cuong Portfolio</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://unpkg.com/framer-motion/dist/framer-motion.umd.js"></script>
 </head>
 <body class="bg-gradient-to-br from-gray-100 to-blue-50 text-gray-800 font-sans">
 
-  <div class="max-w-6xl mx-auto p-6">
+  <!-- Container giảm padding top -->
+  <div class="max-w-6xl mx-auto px-4 pb-8 pt-2">
 
-    <!-- Header -->
-    <div class="bg-white rounded-2xl shadow-md p-6 flex flex-col md:flex-row items-center gap-6 hover:shadow-xl transition">
-      <img src="avatar.jpg" class="w-28 h-28 rounded-full border-4 border-blue-500 object-cover hover:scale-105 transition duration-300" />
+    <!-- Header gọn hơn -->
+    <div class="bg-white rounded-2xl shadow-md p-5 flex flex-col md:flex-row items-center gap-4 hover:shadow-xl transition">
+      <img src="avatar.jpg" class="w-24 h-24 rounded-full border-4 border-blue-500 object-cover" />
 
       <div class="text-center md:text-left">
-        <h1 class="text-3xl font-bold text-blue-600">Hi 👋, I'm Cuong</h1>
+        <h1 class="text-2xl font-bold text-blue-600">Hi 👋, I'm Cuong</h1>
 
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=400&height=40" />
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=350&height=35" />
 
-        <p class="mt-2">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</p>
-        <p class="text-sm mt-1">Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b></p>
+        <p class="mt-1 text-sm">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</p>
+        <p class="text-xs mt-1">Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b></p>
       </div>
     </div>
 
     <!-- Grid -->
-    <div class="grid md:grid-cols-3 gap-6 mt-6">
+    <div class="grid md:grid-cols-3 gap-5 mt-4">
 
       <!-- LEFT -->
-      <div class="space-y-6">
+      <div class="space-y-5">
 
         <!-- About -->
-        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
-          <h2 class="font-semibold text-lg text-blue-600 mb-3">🌷 About Me</h2>
-          <ul class="text-sm space-y-2">
+        <div class="bg-white p-4 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-base text-blue-600 mb-2">🌷 About Me</h2>
+          <ul class="text-sm space-y-1">
             <li>✏️ I enjoy content creation, writing, and creative work</li>
             <li>🤝 I like working with people and building connections</li>
             <li>🎯 I want to become an HR in the future, especially in recruitment</li>
@@ -43,23 +43,23 @@
           </ul>
         </div>
 
-        <!-- Education -->
-        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
-          <h2 class="font-semibold text-lg text-blue-600 mb-2">🎓 Education</h2>
+        <!-- Education (đặt ngay sau About) -->
+        <div class="bg-white p-4 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-base text-blue-600 mb-1">🎓 Education</h2>
           <p class="text-sm">Foreign Trade University</p>
-          <p class="text-sm text-gray-600">Third-year student majoring in Business Chinese</p>
+          <p class="text-xs text-gray-600">Third-year student majoring in Business Chinese</p>
         </div>
 
         <!-- Skills -->
-        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
-          <h2 class="font-semibold text-lg text-blue-600 mb-3">👨🏼‍🍳 Skills</h2>
-          <div class="flex flex-wrap gap-2 mb-3 text-xs">
+        <div class="bg-white p-4 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-base text-blue-600 mb-2">👨🏼‍🍳 Skills</h2>
+          <div class="flex flex-wrap gap-2 mb-2 text-xs">
             <span class="bg-blue-100 px-2 py-1 rounded">Microsoft Office</span>
             <span class="bg-pink-100 px-2 py-1 rounded">Teamwork</span>
             <span class="bg-blue-100 px-2 py-1 rounded">Communication</span>
             <span class="bg-green-100 px-2 py-1 rounded">Problem Solving</span>
           </div>
-          <ul class="text-sm space-y-1">
+          <ul class="text-xs space-y-1">
             <li>• Microsoft Office (Word, Excel, PowerPoint)</li>
             <li>• Teamwork & Event Coordination</li>
             <li>• Communication, Active Listening & Problem Solving</li>
@@ -68,27 +68,27 @@
         </div>
 
         <!-- Contact -->
-        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
-          <h2 class="font-semibold text-lg text-blue-600 mb-3">📫 Contact Me</h2>
-          <p class="text-sm">💌 leemanhcuong22112005@gmail.com</p>
-          <p class="text-sm">🌐 https://github.com/manh-cuong-doraemon</p>
+        <div class="bg-white p-4 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-base text-blue-600 mb-2">📫 Contact Me</h2>
+          <p class="text-xs">💌 leemanhcuong22112005@gmail.com</p>
+          <p class="text-xs">🌐 https://github.com/manh-cuong-doraemon</p>
         </div>
 
       </div>
 
       <!-- RIGHT -->
-      <div class="md:col-span-2 space-y-6">
+      <div class="md:col-span-2 space-y-5">
 
         <!-- Experience Timeline -->
-        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
-          <h2 class="font-semibold text-lg text-blue-600 mb-4">💼 Experience</h2>
+        <div class="bg-white p-4 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-base text-blue-600 mb-3">💼 Experience</h2>
 
-          <div class="border-l-2 border-blue-200 pl-4 space-y-6">
+          <div class="border-l-2 border-blue-200 pl-3 space-y-5">
 
             <div>
-              <h3 class="font-semibold">4HANDY JSC | 08/2025 – 03/2026</h3>
-              <p class="italic text-sm">HR Recruitment Staff (Part-time)</p>
-              <ul class="text-sm list-disc ml-5 mt-2">
+              <h3 class="font-semibold text-sm">4HANDY JSC | 08/2025 – 03/2026</h3>
+              <p class="italic text-xs">HR Recruitment Staff (Part-time)</p>
+              <ul class="text-xs list-disc ml-4 mt-1">
                 <li>Supported recruitment and interview processes across Abby, Savor Cake, and Savor Bread</li>
                 <li>Screened resumes and conducted reference checks</li>
                 <li>Scheduled training and probation periods</li>
@@ -97,9 +97,9 @@
             </div>
 
             <div>
-              <h3 class="font-semibold">AN INVEST GROUP | 03/2025 – 07/2025</h3>
-              <p class="italic text-sm">Marketing Support (Part-time)</p>
-              <ul class="text-sm list-disc ml-5 mt-2">
+              <h3 class="font-semibold text-sm">AN INVEST GROUP | 03/2025 – 07/2025</h3>
+              <p class="italic text-xs">Marketing Support (Part-time)</p>
+              <ul class="text-xs list-disc ml-4 mt-1">
                 <li>Analyzed customer insights and planned weekly content (1 TikTok, 2 Facebook posts)</li>
                 <li>Monitored performance and optimized content</li>
                 <li>Managed 2 Facebook pages and 1 TikTok channel</li>
@@ -107,9 +107,9 @@
             </div>
 
             <div>
-              <h3 class="font-semibold">CUSTOM HUB VIETNAM | 03/2025 – 05/2025</h3>
-              <p class="italic text-sm">Content Creator Intern</p>
-              <ul class="text-sm list-disc ml-5 mt-2">
+              <h3 class="font-semibold text-sm">CUSTOM HUB VIETNAM</h3>
+              <p class="italic text-xs">Content Creator Intern</p>
+              <ul class="text-xs list-disc ml-4 mt-1">
                 <li>Wrote SEO blog content for embroidery e-commerce (3 blogs/week)</li>
                 <li>Developed product ideas with the design team</li>
                 <li>Researched trends and improved website visibility</li>
@@ -117,9 +117,9 @@
             </div>
 
             <div>
-              <h3 class="font-semibold">SOCY MEDIA JSC | 11/2024 – 02/2025</h3>
-              <p class="italic text-sm">Content Writer (Part-time)</p>
-              <ul class="text-sm list-disc ml-5 mt-2">
+              <h3 class="font-semibold text-sm">SOCY MEDIA JSC</h3>
+              <p class="italic text-xs">Content Writer (Part-time)</p>
+              <ul class="text-xs list-disc ml-4 mt-1">
                 <li>Wrote and edited YouTube scripts (2/day)</li>
                 <li>Developed video concepts</li>
                 <li>Researched keywords and trends</li>
@@ -127,25 +127,23 @@
             </div>
 
           </div>
-        </div>
+                <!-- Activities -->
+        <div class="bg-white p-4 rounded-2xl shadow hover:shadow-lg transition">
+          <h2 class="font-semibold text-base text-blue-600 mb-3">📌 Projects & Extracurricular Activities</h2>
 
-        <!-- Activities -->
-        <div class="bg-white p-5 rounded-2xl shadow hover:shadow-lg transition">
-          <h2 class="font-semibold text-lg text-blue-600 mb-2">📌 Activities</h2>
-
-          <div class="mb-4">
-            <p class="font-medium">✨ "Tet Dong Day" Event – FTU Institute of International Economics & Business</p>
-            <p class="italic text-sm">Collaborator</p>
-            <ul class="text-sm list-disc ml-5 mt-1">
+          <div class="mb-3">
+            <p class="font-medium text-sm">✨ "Tet Dong Day" Event – FTU Institute of International Economics & Business</p>
+            <p class="italic text-xs">Collaborator</p>
+            <ul class="text-xs list-disc ml-4 mt-1">
               <li>Participated in fundraising sales activities</li>
               <li>Supported event organization, program execution, and on-site logistics in Lang Son</li>
             </ul>
           </div>
 
           <div>
-            <p class="font-medium">✨ Real Estate Market Research Club (REC FTU)</p>
-            <p class="italic text-sm">Content Team Member</p>
-            <ul class="text-sm list-disc ml-5 mt-1">
+            <p class="font-medium text-sm">✨ Real Estate Market Research Club (REC FTU)</p>
+            <p class="italic text-xs">Content Team Member</p>
+            <ul class="text-xs list-disc ml-4 mt-1">
               <li>Brainstormed content ideas for weekly/monthly posts and club activities</li>
               <li>Created and managed content for internal fanpage to promote events</li>
               <li>Collaborated with the design team to ensure consistent branding</li>
