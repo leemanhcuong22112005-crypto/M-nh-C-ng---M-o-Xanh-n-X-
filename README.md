@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cuong</h1>
 <h3 align="center">A Doraemon lover 💙 | Love blue, travel, exploring & good food ✈️🍜</h3>
-<p align="center">Also known as Lee MC or mèo xanh ăn xế 😏</p>
+<p align="center">Also known as Lee MC or Mèo Xanh Ăn Xế 😏</p>
 
 ---
 
