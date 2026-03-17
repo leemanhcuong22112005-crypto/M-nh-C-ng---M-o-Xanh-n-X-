@@ -1,112 +1,105 @@
-<h1 align="center">Hi 👋, I'm Cuong</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cuong Portfolio</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
-</p>
+  <!-- Container -->
+  <div class="max-w-5xl mx-auto p-6">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+HR+Specialist;Content+Creator;Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=500&height=50">
-</p>
+    <!-- Header -->
+    <div class="bg-white rounded-2xl shadow-md p-6 flex flex-col md:flex-row items-center gap-6">
+      <img src="https://i.pravatar.cc/150" class="w-32 h-32 rounded-full border-4 border-blue-500" />
+      <div>
+        <h1 class="text-3xl font-bold text-blue-600">Cuong (Lee MC)</h1>
+        <p class="text-gray-600 mt-1">Future HR Specialist | Content Creator</p>
+        <p class="mt-2 text-sm">💙 Doraemon lover | Travel ✈️ Food 🍜 Explorer</p>
+      </div>
+    </div>
 
-<h3 align="center">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</h3>
+    <!-- Grid Layout -->
+    <div class="grid md:grid-cols-3 gap-6 mt-6">
 
-<p align="center">
-  Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b>
-</p>
+      <!-- Left Column -->
+      <div class="md:col-span-1 space-y-6">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="200"/>
-</p>
+        <!-- About -->
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <h2 class="font-semibold text-lg text-blue-600 mb-2">🌷 About Me</h2>
+          <p class="text-sm leading-relaxed">
+            I enjoy content creation, working with people, and building connections. 
+            My goal is to become an HR specialist focusing on recruitment.
+          </p>
+        </div>
 
----
+        <!-- Skills -->
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <h2 class="font-semibold text-lg text-blue-600 mb-2">👨‍🍳 Skills</h2>
+          <ul class="text-sm space-y-1">
+            <li>• Microsoft Office</li>
+            <li>• Communication & Teamwork</li>
+            <li>• Problem Solving</li>
+            <li>• Research & Analysis</li>
+          </ul>
+        </div>
 
-## 🌷 About Me
-- ✏️ I enjoy content creation, writing, and creative work  
-- 🤝 I like working with people and building connections  
-- 🎯 I want to become an HR in the future, especially in recruitment  
-- 🌈 I have some experience supporting recruitment and working with candidates  
-- 🌼 Always learning and improving every day  
+        <!-- Contact -->
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <h2 class="font-semibold text-lg text-blue-600 mb-2">📫 Contact</h2>
+          <p class="text-sm">📧 leemanhcuong22112005@gmail.com</p>
+          <p class="text-sm">🌐 github.com/manh-cuong-doraemon</p>
+        </div>
 
----
+      </div>
 
-## 🎓 Education
-<p align="center">
-  <img src="https://img.shields.io/badge/FTU-Foreign%20Trade%20University-1f1f1f?style=for-the-badge"/>
-</p>
+      <!-- Right Column -->
+      <div class="md:col-span-2 space-y-6">
 
-- Third-year student majoring in Business Chinese  
+        <!-- Experience -->
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <h2 class="font-semibold text-lg text-blue-600 mb-4">💼 Experience</h2>
 
----
+          <div class="mb-4">
+            <h3 class="font-semibold">HR Recruitment Staff - 4HANDY JSC</h3>
+            <p class="text-xs text-gray-500">08/2025 – 03/2026</p>
+            <ul class="text-sm list-disc ml-4 mt-1">
+              <li>Supported recruitment process</li>
+              <li>Screened resumes & scheduled interviews</li>
+              <li>Evaluated probation employees</li>
+            </ul>
+          </div>
 
-## 👨🏼‍🍳 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Office-1f1f1f?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Teamwork-2c2c2c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Communication-3a3a3a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-4a4a4a?style=for-the-badge"/>
-</p>
+          <div>
+            <h3 class="font-semibold">Marketing Support - AN INVEST GROUP</h3>
+            <p class="text-xs text-gray-500">03/2025 – 07/2025</p>
+            <ul class="text-sm list-disc ml-4 mt-1">
+              <li>Planned content & analyzed insights</li>
+              <li>Managed Facebook & TikTok channels</li>
+            </ul>
+          </div>
+        </div>
 
-• Microsoft Office (Word, Excel, PowerPoint)  
-• Teamwork & Event Coordination  
-• Communication, Active Listening & Problem Solving  
-• Research, Information Filtering & Analysis  
+        <!-- Education -->
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <h2 class="font-semibold text-lg text-blue-600 mb-2">🎓 Education</h2>
+          <p class="text-sm">Foreign Trade University - Business Chinese (3rd year)</p>
+        </div>
 
----
+        <!-- Activities -->
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <h2 class="font-semibold text-lg text-blue-600 mb-2">📌 Activities</h2>
+          <p class="text-sm">Participated in FTU events & content team at REC Club</p>
+        </div>
 
-## 💼 Experience
+      </div>
 
-**4HANDY JSC | 08/2025 – 03/2026**  
-*HR Recruitment Staff (Part-time)*  
-• Supported recruitment and interview processes across Abby, Savor Cake, and Savor Bread  
-• Screened resumes and conducted reference checks  
-• Scheduled training and probation periods  
-• Assisted in evaluating probationary employees  
+    </div>
 
----
+  </div>
 
-**AN INVEST GROUP | 03/2025 – 07/2025**  
-*Marketing Support (Part-time)*  
-• Analyzed customer insights and planned weekly content (1 TikTok, 2 Facebook posts)  
-• Monitored performance and optimized content  
-• Managed 2 Facebook pages and 1 TikTok channel  
-
----
-
-**CUSTOM HUB VIETNAM | 03/2025 – 05/2025**  
-*Content Creator Intern*  
-• Wrote SEO blog content for embroidery e-commerce (3 blogs/week)  
-• Developed product ideas with the design team  
-• Researched trends and improved website visibility  
-
----
-
-**SOCY MEDIA JSC | 11/2024 – 02/2025**  
-*Content Writer (Part-time)*  
-• Wrote and edited YouTube scripts (2/day)  
-• Developed video concepts  
-• Researched keywords and trends  
-
----
-
-## 📌 Projects & Extracurricular Activities
-
-**"Tet Dong Day" Event – FTU Institute of International Economics & Business**  
-*Collaborator*  
-• Participated in fundraising sales activities  
-• Supported event organization, program execution, and on-site logistics in Lang Son  
-
----
-
-**Real Estate Market Research Club (REC FTU)**  
-*Content Team Member*  
-• Brainstormed content ideas for weekly/monthly posts and club activities  
-• Created and managed content for internal fanpage to promote events  
-• Collaborated with the design team to ensure consistent branding  
-
----
-
-## 📫 Contact Me
-<p align="center">
-  💌 leemanhcuong22112005@gmail.com <br>
-  🌐 https://github.com/manh-cuong-doraemon
-</p>
+</body>
+</html>
