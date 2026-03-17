@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cuong</h1>
-<h3 align="center">A Doraemon lover 💙 | Love blue, travel, exploring & good food ✈️🍜</h3>
-<p align="center">Also known as Lee MC or Mèo Xanh Ăn Xế 😏</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+HR+Specialist;Content+Creator;Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=500&height=50">
+</p>
+
+<h3 align="center">💙 Doraemon lover | Love blue, travel, exploring & good food ✈️🍜</h3>
+
+<p align="center">
+  Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b>
+</p>
 
 ---
 
@@ -14,11 +22,22 @@
 ---
 
 ## 🎓 Education
-- Foreign Trade University (FTU) - Third-year student majoring in Business Chinese 
+<p>
+  <img src="https://img.shields.io/badge/FTU-Foreign%20Trade%20University-blue?style=for-the-badge"/>
+</p>
+
+- Third-year student majoring in Business Chinese  
 
 ---
 
 ## 👨🏼‍🍳 Skills
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teamwork-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-green?style=for-the-badge"/>
+</p>
+
 • Microsoft Office (Word, Excel, PowerPoint)  
 • Teamwork & Event Coordination  
 • Communication, Active Listening & Problem Solving  
@@ -63,14 +82,14 @@
 
 ## 📌 Projects & Extracurricular Activities
 
-**"Tet Dong Day" Event – FTU Institute of International Economics & Business | 10/2024 – 02/2025**  
+✨ **"Tet Dong Day" Event – FTU Institute of International Economics & Business**  
 *Collaborator*  
 • Participated in fundraising sales activities  
 • Supported event organization, program execution, and on-site logistics in Lang Son  
 
 ---
 
-**Real Estate Market Research Club (REC FTU) | 10/2023 – 07/2024**  
+✨ **Real Estate Market Research Club (REC FTU)**  
 *Content Team Member*  
 • Brainstormed content ideas for weekly/monthly posts and club activities  
 • Created and managed content for internal fanpage to promote events  
@@ -78,9 +97,20 @@
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: leemanhcuong22112005@gmail.com  
-- 🌐 GitHub: https://github.com/manh-cuong-doraemon  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manh-cuong-doraemon&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manh-cuong-doraemon&theme=tokyonight"/>
+</p>
 
 ---
 
+## 📫 Contact Me
+- 📧 leemanhcuong22112005@gmail.com  
+- 🌐 https://github.com/manh-cuong-doraemon  
+
+---
+
+## ⚡ Fun Fact
+> "Work hard, travel harder." ✈️😏
